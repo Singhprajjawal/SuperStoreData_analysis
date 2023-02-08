@@ -12,4 +12,7 @@ https://github.com/Singhprajjawal/SuperStoreData_analysis/blob/main/SuperStoreOr
 https://github.com/Singhprajjawal/SuperStoreData_analysis/blob/main/SuperStore_analysis.ipynb- The Jupyter Notebook containing the code and results of the analysis
 
 Visualisation in power bi 
-file:https://github.com/Singhprajjawal/SuperStoreData_analysis/blob/main/store_analysis.pbix
+file:https://github.com/Singhprajjawal/SuperStoreData_analysis/blob/main/store_analysis.pbix![SuperStore]
+Screenshot:
+(https://user-images.githubusercontent.com/113460353/217445983-3b7ecb5f-d180-42e5-963c-abaaa5c44a2d.png)
+
