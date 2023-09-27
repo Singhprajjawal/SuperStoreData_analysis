@@ -4,8 +4,6 @@ This project involves the analysis of a SuperStoreOrders.csv file using Python. 
 Used Tools:
 Python 
 Pandas library
-Power bi
-File Descriptions
 
 https://github.com/Singhprajjawal/SuperStoreData_analysis/blob/main/SuperStoreOrders.csv - The main dataset used in the analysis
 
